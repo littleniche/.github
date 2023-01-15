@@ -5,4 +5,4 @@
 - Trying our best to solve our problems
 - Playing with binaries
 - Making our life easier
-- Learning every aspect of SDLC through small projects 
+- Learning Development, Packaging and Deploying through small projects 
